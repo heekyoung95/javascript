@@ -4,5 +4,5 @@
 > 한빛미디어 <혼자 공부하는 자바스크립트> 참고         
 <br>
 
-## ● List
-[🔗 1일차 (2021-08-11)](https://github.com/heekyoung95/javascript/blob/main/Day1/20210811.md)
+## List
+[● 1일차 (2021-08-11) 🔗](https://github.com/heekyoung95/javascript/blob/main/Day1/20210811.md)
