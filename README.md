@@ -5,4 +5,4 @@
 <br>
 
 ## List
-[● 1일차 (2021-08-11) 🔗](https://github.com/heekyoung95/javascript/blob/main/Day1/20210811.md)
+● [1일차 (2021-08-11) 🔗](https://github.com/heekyoung95/javascript/blob/main/Day1/20210811.md)
