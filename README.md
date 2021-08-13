@@ -6,6 +6,6 @@
 
 ## List
 ● [1일차 (2021-08-11) 🔗](https://github.com/heekyoung95/javascript/blob/main/List/20210811.md)   
-● [2일차 (2021-08-12) 🔗](https://github.com/heekyoung95/javascript/blob/main/List/20210812.md)
-● [3일차 (2021-08-13) 🔗](https://github.com/heekyoung95/javascript/blob/main/List/20210813.md)
+● [2일차 (2021-08-12) 🔗](https://github.com/heekyoung95/javascript/blob/main/List/20210812.md)   
+● [3일차 (2021-08-13) 🔗](https://github.com/heekyoung95/javascript/blob/main/List/20210813.md)   
 
