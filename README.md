@@ -9,7 +9,7 @@
 ● [2일차 (2021-08-12) 🔗](https://github.com/heekyoung95/javascript/blob/main/List/20210812.md)   
 ● [3일차 (2021-08-13) 🔗](https://github.com/heekyoung95/javascript/blob/main/List/20210813.md)   
 ● [4일차 (2021-08-14) 🔗](https://github.com/heekyoung95/javascript/blob/main/List/20210814.md)   
-<
+<br>
 
 ## javascript 활용
 ● [나이트모드 구현하기](https://heekyoung95.github.io/javascript/)
