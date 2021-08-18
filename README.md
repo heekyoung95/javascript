@@ -10,6 +10,7 @@
 ● [3일차 (2021-08-13) 🔗](https://github.com/heekyoung95/javascript/blob/main/List/20210813.md)   
 ● [4일차 (2021-08-14) 🔗](https://github.com/heekyoung95/javascript/blob/main/List/20210814.md)   
 ● [5일차 (2021-08-16) 🔗](https://github.com/heekyoung95/javascript/blob/main/List/20210816.md)   
+● [6일차 (2021-08-18) 🔗](https://github.com/heekyoung95/javascript/blob/main/List/20210818.md)   
 <br>
 
 ## javascript 활용
